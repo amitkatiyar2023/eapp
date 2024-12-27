@@ -1,0 +1,39 @@
+prompt: Given the legal context, provide information for the following entities to generate a knowledge graph:
+
+1. Case Number: [Enter Case Number]
+2. Respondent: [Enter Respondent's Name]
+3. Judge: [Enter Judge's Name]
+4. Lawyer: [Enter Lawyer's Name]
+5. Date: [Enter Date of the Legal Event]
+6. Organization (Org): [Enter Relevant Organization]
+7. Geographic Location (GPE): [Enter Geographic Location]
+8. Statute: [Enter Relevant Statute Number]
+9. Legal Provision: [Enter Relevant Legal Provision]
+10. Precedent: [Enter Relevant Legal Precedent]
+11. Witness: [Enter Witness's Name]
+12. Other Person: [Enter Other Person's Name]
+
+Please provide additional details, relationships, or any other pertinent information related to the entities mentioned above. If any entity is not applicable, leave the corresponding field blank.
+
+Example:
+1. Case Number: 123456
+2. Respondent: ABC Corporation
+3. Judge: Judge Smith
+4. Lawyer: John Doe
+5. Date: 2023-01-01
+6. Organization (Org): XYZ Legal Services
+7. Geographic Location (GPE): New York
+8. Statute: Section 123A
+9. Legal Provision: Article 456B
+10. Precedent: Case ABC v. DEF
+11. Witness: Jane Doe
+12. Other Person: [Leave Blank if not applicable]
+
+Relationships or additional details (if any):
+- Judge Smith presided over Case 123456.
+- Lawyer John Doe represented ABC Corporation.
+- The legal event took place in New York, as recorded on January 1, 2023.
+
+
+
+
